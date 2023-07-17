@@ -1,7 +1,7 @@
 # point-in-polygon
-This is the coursework for UCL MSc CEGE0096 Geospatial Programming.
+This is the coursework for UCL MSc CEGE0096 Geospatial Programming. Also my first attempt with Python, code was completed in November 2021.
 
-This software written by Python is aimed to solve the PiP problem, in other words, to detect the geometric relationship between points and a polygon.
+This task was aimed to solve the PiP problem, in other words, to detect the geometric relationship between points and a polygon.
 
 Pycharm software in MacOS environment was used to write this Python program ([Python 3.8](https://www.python.org/downloads/)), no additional libraries and packages are needed. Given Python's cross-platform nature, any computer using Python version 3.8 can theoretically debug and process this program.
 
