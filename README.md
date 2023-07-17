@@ -1,4 +1,4 @@
-# point-in-polygon
+# Point In Polygon
 This is the coursework for UCL MSc CEGE0096 Geospatial Programming. Also my first attempt with Python, code was completed in November 2021.
 
 This task was aimed to solve the PiP problem, in other words, to detect the geometric relationship between points and a polygon.
